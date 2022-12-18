@@ -6,3 +6,4 @@ hey! is this changed in remote also?
 I am using -a for commit to put the same message 
 >>>>>>> 915bb77 (one.txt)
 This is a new line 22.25
+This is a new line 22.33
