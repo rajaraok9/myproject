@@ -1,9 +1,6 @@
-Make the necessary changes in the file, and then save it.
-
 <<<<<<< HEAD
 The git status command is then executed in order to see the reflected changes.
 =======
-The git status command is then executed in order to see the reflected changes.
-
+>>>>>>> 272c778 (B files added)
 git merge
->>>>>>> 59bff11 (README file added)
+
