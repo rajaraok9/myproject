@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Sai Baba.
 Sai Ram
+=======
+Sai Ram.
+Sai Baba.
+
+>>>>>>> 89ea6e1 (baba.txt is being modified here also)
